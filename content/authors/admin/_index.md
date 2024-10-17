@@ -125,7 +125,10 @@ awards:
     url: https://aclanthology.org/2023.americasnlp-1.9
     date: '2023-07-01'
     awarder: Association for Computational Linguistics
-    author: Graichen, Nora and van Genabith, Josef and España-Bonet, Cristina
+    authors: 
+      - Graichen, Nora 
+      - van Genabith, Josef 
+      - España-Bonet, Cristina
     topic: Proceedings of the Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP)
     summary: |
       We present the first neural machine translation system for the low-resource language pair Wayúunaiki–Spanish and explore strategies to inject linguistic knowledge into the model to improve translation quality. We explore a wide range of methods and combine complementary approaches. Results indicate that incorporating linguistic information through linguistically motivated subword segmentation, factored models, and pretrained embeddings helps the system to generate improved translations, with the segmentation contributing most. In order to evaluate translation quality in a general domain and go beyond the available religious domain data, we gather and make publicly available a new test set and supplementary material. Although translation quality as measured with automatic metrics is low, we hope these resources will facilitate and support further research on Wayúunaiki.

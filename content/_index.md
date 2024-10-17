@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Nora'
 date: 2023-10-24
 type: landing
 
@@ -29,6 +29,7 @@ sections:
     content:
       username: admin
     design:
+      columns: '2'
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
@@ -40,19 +41,20 @@ sections:
       text: |-
        - Intricacies of Human Language
        - Natural Language Processing, particularly Machine Translation (MT), and ongoing exploration of low-resource MT
-       - Natural Language Understanding (NLU) for process descriptions
+       - Natural Language Understanding for process descriptions
        - Spending time outdoors in nature 🍃
   #- block: skills
   #  content:
   #    title: Skills & Hobbies
   #    username: admin
-  - block: awards
+  - block: collection
     content:
       title: Publications
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
+      view
  # - block: languages
  #   content:
  #     title: Languages
