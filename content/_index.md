@@ -47,14 +47,14 @@ sections:
   #  content:
   #    title: Skills & Hobbies
   #    username: admin
-  - block: collection
+  - block: awards
     content:
       title: Publications
       username: admin
     design:
       # Hugo date format
       date_format: 'January 2006'
-      view
+      view: citation
  # - block: languages
  #   content:
  #     title: Languages
