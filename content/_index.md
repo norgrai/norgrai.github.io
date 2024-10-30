@@ -33,7 +33,15 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: true
+      is_education_first: true   
+  - block: markdown
+    content:
+      title: 'How LLMs describe/predict 😉 me:'
+      subtitle: ''
+      text: |-
+       - Unraveling linguistic mysteries through computational prowess, a PhD student in Computational Linguistics, learning at the forefront of language and technology. [Claude 3 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+       - PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, bridging language and technology to uncover the secrets of human communication.  [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)
+       - PhD Candidate in the vibrant field of Computational Linguistics at the UPF in Barcelona, captivated by the nexus of language and tech, crafting models that decode human speech. [Yi-Large](https://build.nvidia.com/01-ai/yi-large)
   - block: markdown
     content:
       title: '📚 My Interests'
