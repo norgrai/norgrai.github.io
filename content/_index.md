@@ -39,9 +39,11 @@ sections:
       title: 'How LLMs describe/predict 😉 me:'
       subtitle: ''
       text: |-
-       - Unraveling linguistic mysteries through computational prowess, a PhD student in Computational Linguistics, learning at the forefront of language and technology. [Claude 3 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
-       - PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, bridging language and technology to uncover the secrets of human communication.  [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)
-       - PhD Candidate in the vibrant field of Computational Linguistics at the UPF in Barcelona, captivated by the nexus of language and tech, crafting models that decode human speech. [Yi-Large](https://build.nvidia.com/01-ai/yi-large)
+       - _Unraveling linguistic mysteries through computational prowess, a PhD student in Computational Linguistics, learning at the forefront of language and technology._ [Claude 3 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+       - _PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, bridging language and technology to uncover the secrets of human communication._  [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)
+       - _PhD Candidate in the vibrant field of Computational Linguistics at the UPF in Barcelona, captivated by the nexus of language and tech, crafting models that decode human speech._ [Yi-Large](https://build.nvidia.com/01-ai/yi-large)
+      design:
+        columns: '1'
   - block: markdown
     content:
       title: '📚 My Interests'
@@ -51,6 +53,8 @@ sections:
        - Natural Language Processing, particularly Machine Translation (MT), and ongoing exploration of low-resource MT
        - Natural Language Understanding for process descriptions
        - Spending time outdoors in nature 🍃
+      design:
+        columns: '1'
   #- block: skills
   #  content:
   #    title: Skills & Hobbies
