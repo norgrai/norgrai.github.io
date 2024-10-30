@@ -37,7 +37,7 @@ sections:
   - block: markdown
     content:
       title: 'How LLMs describe/predict 😉 me:'
-      subtitle: ''
+      subtitle: 'How LLMs describe/predict 😉 me:'
       text: |-
        - _Unraveling linguistic mysteries through computational prowess, a PhD student in Computational Linguistics, learning at the forefront of language and technology._ [Claude 3 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
        - _PhD student at the Universitat Pompeu Fabra in Barcelona, Spain, bridging language and technology to uncover the secrets of human communication._  [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)
