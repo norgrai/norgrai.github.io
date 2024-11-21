@@ -138,6 +138,6 @@ awards:
 
 ---
 
-Computational Linguistics and PhD student, learning at the Universitat Pompeu Fabra in Barcelona, Catalunya; supervised by [Gemma Boleda](https://gboleda.github.io/).
+Computational Linguist and PhD student in the [COLT](https://www.upf.edu/web/colt) research group, learning at the Universitat Pompeu Fabra in Barcelona, Catalunya; supervised by [Gemma Boleda](https://gboleda.github.io/). 
 
 
